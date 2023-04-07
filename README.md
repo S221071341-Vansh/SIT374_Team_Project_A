@@ -13,7 +13,13 @@ This repository serves as a centralized location for Vansh Khanna to store and m
 
 ## Project Aim
 
-This unit's primary aim is to utilize the knowledge and skills gained from Portswigger and TryHackMe.com upskilling websites in a real-world setting. The project then, focuses on conducting software testing on the "OnTrack" website, with the aim of identifying vulnerabilities, correcting them, modifying the code, and generating a report highlighting the application's issues to improve website security. The ultimate goal is for the student to apply their upskilling expertise, collaborate with a team, and acquire essential skills by proactively identifying and resolving vulnerabilities while also boosting the website's overall security.
+The primary aim of this unit course is to enhance students' knowledge and skills in pen-testing by providing them with theoretical concepts and practical training through Portswigger and TryHackMe.com such websites. This course focuses on conducting software testing on the OnTrack website to identify vulnerabilities, correct them, modify the code, and generate a report highlighting the application's issues to improve website security.
+
+Students atan individual level are expected to apply their upskilling expertise, collaborate with a team, and acquire essential skills in proactively identifying and resolving vulnerabilities while also improving the website's overall security. To achieve this, they will use various testing methods and tools like Burpsuite to discover vulnerabilities in Deakin's online application, OnTrack, by applying theoretical concepts and ethical hacking skills learned during the upskilling phase of the pen-testing course.
+
+The results of these analyses and creative problem-solving techniques are used to develop customized security solutions that can strengthen the application's defenses. The success of the pen-testing activity can be measured through evidence of vulnerabilities found and successfully fixed, as well as the implementation of robust security policies that protect OnTrack from potential attackers.
+
+Overall, the course emphasizes the practical application of theoretical concepts and ethical hacking skills to real-world problems, highlighting the importance of critical thinking, innovation, and collaboration in developing effective security solutions.
 
 ## Getting Started
 
